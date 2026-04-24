@@ -1,39 +1,28 @@
-## Incocknito V4
+# Incocknito v4
 
-Incocknito V4 is an open-source revival of the original Incognito project, rebuilt to function with current Roblox updates and modern environments.
+## Overview
 
-The original Incognito became unstable over time as Roblox updates patched the internal methods it relied on. This resulted in broken functionality, crashes, and overall unreliability, eventually leading to its discontinuation ([Rscripts.net][1]).
-This project exists to address those issues by reworking the core implementation and restoring functionality using updated and more stable approaches.
+Incocknito v4 is an open-source revival of the original [Incognito](https://github.com/Incognito-Roblox/Incognito/ ) Roblox executor. The original project was abandoned after Roblox platform updates patched its core execution methods, rendering it unstable and ultimately non-functional.
 
-Unlike the original, Incocknito V4 is being developed with a focus on long-term stability, maintainability, and adaptability to future changes.
+## Background
 
-### Development
+Following the original project's decline, substantial effort was invested in diagnosing the root failures, reconstructing the execution pipeline, and adapting to current Roblox architecture. The result is a rebuilt executor that restores core functionality while significantly improving overall stability and performance.
 
-Work on this revival has been ongoing, with time spent fixing the underlying issues that caused the original project to fail. This includes replacing patched methods, improving execution reliability, and restructuring parts of the system to reduce instability.
+## Features
 
-This is not a direct continuation of the original codebase, but a reworked version inspired by it.
+- **Fast Execution:** Optimized execution pipeline for minimal latency and responsive performance.
+- **Unified Naming Convention (UNC):** Maintains approximately 66% UNC compatibility, preserving the familiar environment and API structure from the original Incognito.
+- **Restored Stability:** Core methods rebuilt from the ground up to address the patching and instability that affected the original project.
+- **Expanded Capabilities:** Additional features and improvements beyond the original scope.
 
-### Status
+## Current Status
 
-The project is currently in development.
+- The current build is available in the Discord server.
+- Full source code will be uploaded to this repository soon.
 
-* The full source code will be uploaded to this repository soon
-* Current builds are available through the Discord server
+## Links
 
-### Goals
+- **Developer:** nuget320135
+- **Discord:** https://discord.gg/incoorbx 
+- **Original Project:** https://github.com/Incognito-Roblox/Incognito/ 
 
-* Restore the original Incognito functionality
-* Replace patched and outdated methods
-* Improve stability and execution consistency
-* Adapt to ongoing Roblox updates
-* Expand with additional features over time
-
-### Community
-
-Discord: [https://discord.gg/incoorbx](https://discord.gg/incoorbx)
-
-### Credits
-
-* Original Incognito developers
-* Revival developed by **nuget320135**
-[1]: https://rscripts.net/script/incognito-is-discontinued-and-no-longer-exists-UNto?utm_source=chatgpt.com "FIXED Default ServerSided Executor Hub | Incognito is discontinued and no longer exists. - Roblox Scripts | Rscripts.net"
