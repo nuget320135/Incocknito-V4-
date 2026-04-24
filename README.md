@@ -10,15 +10,15 @@ Following the original project's decline, substantial effort was invested in dia
 
 ## Features
 
-- **Fast Execution:** Optimized execution pipeline for minimal latency and responsive performance.
-- **Unified Naming Convention (UNC):** Maintains approximately 66% UNC compatibility, preserving the familiar environment and API structure from the original Incognito.
-- **Restored Stability:** Core methods rebuilt from the ground up to address the patching and instability that affected the original project.
-- **Expanded Capabilities:** Additional features and improvements beyond the original scope.
+- **Fast Execution:**
+- **Script support:** Maintains approximately 66% UNC, 50% sUNC
+- **Stability:** Incocknito doesnt crash that often
+- **Level 8** Incocknito is one of the first external executors to have lvl 8
 
 ## Current Status
 
-- The current build is available in the Discord server.
-- Full source code will be uploaded to this repository soon.
+- The current build is available in the Discord server
+- Full source code will be uploaded to this repository soon
 
 ## Links
 
